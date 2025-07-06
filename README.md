@@ -77,7 +77,7 @@ It supports **multi-user authentication**, **transaction management**, **file up
 | **Database**  | MongoDB Atlas, Mongoose                              |
 | **Authentication** | JWT (JSON Web Token), bcryptjs for hashing    |
 | **File Uploads** | Multer, Tesseract.js (OCR), pdf-parse            |
-| **Deployment** | Frontend - Vercel, Backend - Render, DB - MongoDB Atlas |
+| **Deployment** |Backend - Render, DB - MongoDB Atlas |
 
 ---
 
