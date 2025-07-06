@@ -1,5 +1,10 @@
 # 💸 Finance Tracker – Personal Finance Assistant (MERN Stack)
 
+🎥 **[Demo Video – Watch on YouTube](https://youtu.be/uMAQe_1lVuA?si=5aVbtSoK_jbwS0WQ)**  
+*A project walkthrough created by me, giving an overall view of the app’s features and flow.*
+
+---
+
 The **Finance Tracker** is a full-featured personal finance management web application developed using the **MERN stack**. It helps users **log, monitor, analyze, and optimize** their financial transactions while offering intelligent insights, charts, and automated data extraction from receipts and PDF statements.
 
 ---
@@ -60,6 +65,7 @@ It supports **multi-user authentication**, **transaction management**, **file up
 - **Upload Image Receipts** (`.jpg`, `.png`)
   - OCR processed via **Tesseract.js**
   - Text is parsed and converted into structured transactions
+
 ---
 
 ### 📥 Data Export
@@ -92,4 +98,9 @@ It supports **multi-user authentication**, **transaction management**, **file up
 - **Route Protection**:
   - Only logged-in users can access their data and actions
 
+---
 
+## 🎬 Demo Video
+
+📺 **YouTube Link:** [https://youtu.be/uMAQe_1lVuA?si=5aVbtSoK_jbwS0WQ](https://youtu.be/uMAQe_1lVuA?si=5aVbtSoK_jbwS0WQ)  
+🎙️ *Watch the full walkthrough of the app’s features, recorded and explained by me.*
