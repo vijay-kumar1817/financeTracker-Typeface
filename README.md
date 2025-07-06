@@ -1,7 +1,7 @@
 # 💸 Finance Tracker – Personal Finance Assistant (MERN Stack)
 
-🎥 **[Demo Video – Watch on YouTube](https://youtu.be/uMAQe_1lVuA?si=5aVbtSoK_jbwS0WQ)**  
-*A project walkthrough created by me, giving an overall view of the app’s features and flow.*
+📺 🎥 **[Watch Demo on YouTube](https://youtu.be/uMAQe_1lVuA?si=5aVbtSoK_jbwS0WQ)**  
+*A full walkthrough created by me, showcasing the app’s features and usage flow.*
 
 ---
 
@@ -100,7 +100,9 @@ It supports **multi-user authentication**, **transaction management**, **file up
 
 ---
 
-## 🎬 Demo Video
+## 🎬 YouTube Demo
 
-📺 **YouTube Link:** [https://youtu.be/uMAQe_1lVuA?si=5aVbtSoK_jbwS0WQ](https://youtu.be/uMAQe_1lVuA?si=5aVbtSoK_jbwS0WQ)  
-🎙️ *Watch the full walkthrough of the app’s features, recorded and explained by me.*
+📽️🎦 **Watch the full video demo on YouTube:**  
+🔗 [https://youtu.be/uMAQe_1lVuA?si=5aVbtSoK_jbwS0WQ](https://youtu.be/uMAQe_1lVuA?si=5aVbtSoK_jbwS0WQ)  
+
+🗣️ *The video is recorded and narrated by me, covering the login system, dashboard, transaction flow, insights, goal tracker, and receipt upload.*
